@@ -26,3 +26,7 @@ MIDDLEWARE_CLASSES = (
 	</html>
 ```
 3. Now you can make your AJAX request using POST.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ebertti/js-csrf-django/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
